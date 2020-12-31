@@ -10,7 +10,7 @@ public class GettingStartedClientServer {
     public static void main(String[] args) {
         ClientConfig cfg = new ClientConfig();
 
-        // Embedded
+        // Client
         HazelcastInstance hz = HazelcastClient.newHazelcastClient(cfg);
 
         // Map Data Structure
