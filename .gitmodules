@@ -1,0 +1,3 @@
+[submodule "streamProcessing/labs"]
+	path = streamProcessing/labs
+	url = git@github.com:sudiptog81/hazelcast-jet-training.git
