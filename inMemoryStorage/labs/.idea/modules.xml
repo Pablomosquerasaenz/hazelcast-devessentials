@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IMap-Eviction/IMap-Eviction.iml" filepath="$PROJECT_DIR$/IMap-Eviction/IMap-Eviction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IMap-Get_Put/IMap-Get_Put.iml" filepath="$PROJECT_DIR$/IMap-Get_Put/IMap-Get_Put.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IMap-Indexing/IMap-Indexing.iml" filepath="$PROJECT_DIR$/IMap-Indexing/IMap-Indexing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IMap-Querying/IMap-Querying.iml" filepath="$PROJECT_DIR$/IMap-Querying/IMap-Querying.iml" />
+      <module fileurl="file://$PROJECT_DIR$/in_memory_storage_essentials.iml" filepath="$PROJECT_DIR$/in_memory_storage_essentials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs.iml" filepath="$PROJECT_DIR$/labs.iml" />
+    </modules>
+  </component>
+</project>
